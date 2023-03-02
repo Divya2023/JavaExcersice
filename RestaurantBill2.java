@@ -141,10 +141,9 @@ public class RestaurantBill2 {
 	}else { System.out.println("invalid option") ; ordering=true;}
 		
    }while(ordering);
-	//	return;
-		//calculateBill();
-		//System.exit(1);
-	}
+	
+		
+}
 	
 	
 	public void OrderNonVegFood() {
